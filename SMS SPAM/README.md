@@ -37,9 +37,7 @@ You can install these dependencies using pip:
 bash
 Copy code
 pip install numpy pandas matplotlib seaborn scikit-learn nltk
-Results
-Initial Model Accuracy: The Naive Bayes model achieved an accuracy of X.XXX on the test data.
-Best Model Performance: After comparing with other models, the Logistic Regression model was selected for its balanced performance with an accuracy of X.XXX.
+
 Conclusion
 This project successfully demonstrates the detection of spam SMS messages using machine learning. Through careful data preprocessing, model training, and evaluation, a robust spam detection system was developed. This model can be effectively used to filter out spam messages and enhance user security.
 
