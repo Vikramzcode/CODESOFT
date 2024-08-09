@@ -48,10 +48,7 @@ You can install these dependencies using pip:
 bash
 Copy code
 pip install numpy pandas matplotlib seaborn scikit-learn
-Results
-Initial Model Accuracy: The logistic regression model achieved an accuracy of X.XXX on the test data.
-Best Model Accuracy: After hyperparameter tuning, the best model achieved an accuracy of X.XXX.
-The final model's confusion matrix and classification report provide detailed insights into its performance.
+
 Conclusion
 The project successfully demonstrates the process of predicting customer churn using a logistic regression model. The use of data preprocessing, exploratory data analysis, and hyperparameter tuning contributed to building a more accurate model. This predictive model can be used by the company to identify at-risk customers and take necessary actions to reduce churn.
 
