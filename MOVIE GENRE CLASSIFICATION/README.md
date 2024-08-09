@@ -53,10 +53,7 @@ You can install these dependencies using pip:
 pip install numpy pandas matplotlib seaborn scikit-learn nltk
 ```
 
-**Results**
 
-- **Initial Model Accuracy:** The Random Forest model achieved an accuracy of X.XXX on the test data.
-- **Best Model Performance:** After comparing with other models, the Logistic Regression model was selected for its balanced performance with an accuracy of X.XXX.
 
 **Conclusion**
 
